@@ -4,8 +4,10 @@ title: "Attacco alla Curva Sud
 (ovvero Sorvegliare e Punire, capitolo II)"
 date: 2018-03-16 00:00:00
 ---
-{::options parse_block_html="true" /}
-Come già denunciato in un precedente comunicato ([Sorvegliare e punire]({{ site.baseurl }}{% post_url 2018-01-18-sorvegliare-e-punire %})), nel quale ponevamo delle domande che vagano tuttora nell’aria fredda di questo fine inverno, ecco che, con puntualità perlomeno sospetta, si avvera quella volontà repressiva “_di chi da anni lavora, con abilità e perseveranza, per imporre la tolleranza zero e l’annullamento del tifo organizzato ad Ambrì.._”
+
+Come già denunciato in un precedente comunicato [(Sorvegliare e punire)]({{< relref "posts/2018-01-18-sorvegliare-e-punire.md" >}}), nel quale ponevamo delle domande che vagano tuttora nell’aria fredda di questo fine inverno, ecco che, con puntualità perlomeno sospetta, si avvera quella volontà repressiva “_di chi da anni lavora, con abilità e perseveranza, per imporre la tolleranza zero e l’annullamento del tifo organizzato ad Ambrì.._”
+
+<!--more-->
 
 Mercoledì 14 marzo 2018 a partire dalle 06:00 di mattina, una cosiddetta operazione congiunta della polizia cantonale ticinese, su mandato del procuratore pubblico Nicola Respini, entrava nelle dormienti abitazioni di 16 tifosi dell’HCAP, che venivano poi prelevati con una vettura ufficiale e portati nelle rispettive centrali da due agenti. In parecchi casi si procedeva pure ad una perquisizione della casa (addirittura degli spazi comuni di fronte a genitori e/o parenti), dove venivano requisiti oggetti di ogni specie: pullover, sciarpe, stickers, calendari e pochi oggetti pirotecnici. I telefoni venivano sequestrati (e tre lo sono tuttora). 
 Lasciamo immaginare lo spavento e la preoccupazione delle figlie, delle compagne, delle mogli, delle madri e dei padri nel vedersi presentare, all’alba, un mandato di perquisizione e sequestro per un’operazione, denominata Operazione Valascia, mai vista sino ad oggi se non per questioni di omicidio, narcotraffico e riciclaggio internazionale. 

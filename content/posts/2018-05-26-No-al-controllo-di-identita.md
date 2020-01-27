@@ -3,11 +3,12 @@ layout: post
 title: "No al controllo d'identità!"
 date: 2018-05-26 00:00:00
 ---
-{::options parse_block_html="true" /}
 Dopo i recenti ricatti di Norman “uhuhuh” Gobbi per imporre il controllo 
 del documento negli stadi e nelle piste di hockey del cantone, vogliamo 
 cercare di chiarire alcuni punti e prendere posizione contro gli 
 ennesimi deliri sbirreschi del capo del dipartimento delle istituzioni.
+
+<!--more-->
 
 La proposta è quella di introdurre il controllo del documento negli 
 impianti sportivi cantonali, schedando e fotografando tutti i tifosi/e 

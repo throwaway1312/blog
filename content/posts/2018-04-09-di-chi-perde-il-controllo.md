@@ -3,7 +3,6 @@ layout: post
 title: "Di chi perde il controllo"
 date: 2018-04-09 00:00:00
 ---
-{::options parse_block_html="true" /}
 Felici e liberati dalla fondamentale vittoria in una Valascia in festa, 
 brindiamo alla fine di questo campionato. Una stagione per noi assai 
 movimentata, fatta di ripetuti momenti di tensione e di parecchie nuove 
@@ -19,6 +18,8 @@ Losanna. Dall’alto qualcuno ci "consiglia" addirittura d’evitare
 infantili comunicati che nient’altro fanno che provocare il Potere. Come 
 dire: tenetevi le vostre diffide, state zitti, le cose sono così e 
 basta, voi continuate da bravi a tifare.
+
+<!--more-->
 
 Ma a noi, come sempre, non garba far finta di niente ed ecco che, 
 apprendendo dai media ulteriori aspetti surreali dei fatti successi ai 

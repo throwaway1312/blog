@@ -12,6 +12,8 @@ assolutamente attaccare o coinvolgere ciò che la squadra e lo staff
 tecnico stanno portando quest’anno! Anzi ne nutriamo un grande rispetto 
 e attaccamento!
 
+<!--more-->
+
 Abbiamo notato come subito si sia alzato un polverone di critiche nei 
 nostri confronti, chissà dalle stesse tastiere che sono sempre pronte a 
 criticarci sui social! Per potere fare chiarezza immediata su tali fatti 

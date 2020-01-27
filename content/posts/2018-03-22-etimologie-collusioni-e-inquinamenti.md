@@ -5,13 +5,12 @@ rivoluzionario
 (di etimologie, collusioni e inquinamenti)"
 date: 2018-03-22 00:00:00
 ---
-{::options parse_block_html="true" /}
 Dopo aver letto su laRegione di mercoledì 21 marzo 2018 le dichiarazioni 
 del procuratore pubblico Nicola Respini, non ce la facciamo proprio a 
 restare zitt\*.
 
-
 Ci permettiamo quindi qualche osservazione:
+
 
 + Cominciamo dalla *prevenzione*. Proprio non capiamo cosa ci sia di 
   *preventivo* in una simile azione di forza a **due mesi** dai fatti.  
@@ -23,6 +22,8 @@ Ci permettiamo quindi qualche osservazione:
   partita.
   Le ricordiamo, se le fosse sfuggito, che *preventivo* significa 
   “*prima dell'evento*”.
+
+<!--more-->
 
 + Continuando, al riguardo dei *clamorosi* ritrovamenti nelle 
   abitazioni.

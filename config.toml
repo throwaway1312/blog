@@ -1,10 +1,10 @@
 ##########################################
 # Site Settings
 baseURL = "https://throwaway1312.github.io"
-title = "infogbb"
+title = "infoGBB"
 subtitle = "Contenitore comunicati Curva Sud Ambrì"
-languageCode = "it-ch"
-
+languageCode = "it"
+#
 # Name of theme
 theme = "meme"
 
@@ -12,7 +12,7 @@ theme = "meme"
 newContentEditor = "vim"
 
 # i18n
-defaultContentLanguage = "it-ch"
+defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = false
 
 # Pluralize titles in lists?
@@ -37,6 +37,15 @@ enableRobotsTXT = true
 # lists (valid for the `posts` homepage
 # layout in MemE)
 paginate = 10
+
+# Languages support
+[languages]
+  [languages.it]
+    languageName = "Italiano"
+    weight = 1
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 2
 
 # URL related
 disablePathToLower = false
@@ -92,15 +101,13 @@ uglyURLs = false
     # Name
     name = "infogbb"
     # Email
-    email = "reuixiy@gmail.com"
+    email = ""
     # Motto or introduction
-    motto = "test"
+    motto = ""
     # Avatar
-    avatar = "/icons/apple-touch-icon.png"
+    avatar = ""
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
-    # Twitter
-    twitter = "reuixiy"
+    website = ""
 
 # Related content
 [related]
@@ -188,6 +195,16 @@ uglyURLs = false
         name = "Sgambetto"
         weight = 2
         pre = "internal"
+    [[menu.main]]
+        url = "/solidarieta/"
+        name = "Solidarietà"
+        weight = 3
+        pre = "internal"
+    [[menu.main]]
+        url = "/contatto/"
+        name = "Contatto"
+        weight = 4
+        pre = "internal"
 ##########################################
 # Theme Settings
 
@@ -224,7 +241,7 @@ uglyURLs = false
     displayMenuInHome = true
 
     # Highlight current menu item by section?
-    activeInSection = true
+    activeInSection = false
     # Note: if true, the menu item in the
     #       post page will be highlighted
     #       also if that post’s section is
@@ -250,26 +267,13 @@ uglyURLs = false
     # Unit: em
     homeLinksPadding = 1
 
-    ## Footage
-    homePoster = ""
-    homeVideoWebm = ""
-    homeVideoMp4 = ""
-    homeLogo = ""
-    homeLogoLink = ""
-    homeTitle = ""
-    homeMotto = ""
-    homeDescription = ""
-    homeKeywords = ""
-    homeLinksDelimiter = ""
-
-
     ######################################
     # Site Info
 
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "Contenitore comunicati Curva Sud Ambrì"
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
@@ -662,7 +666,7 @@ uglyURLs = false
     # Note: valid for the `posts` and
     #       `page` homepage layout only
 
-    postMetaDateFormat = "2006.1.2"
+    postMetaDateFormat = "2.1.2006"
     # ATTENTION: be sure to follow the
     #            specified format
     #            https://gohugo.io/functions/format/
@@ -850,7 +854,7 @@ uglyURLs = false
     fontFamilyBody = "'IBM Plex Serif', serif"
 
     # Embed fonts link
-    fontsLink = "https://fonts.googleapis.com/css?family=IBM+Plex+Serif:400,400i,500,700,700i|Source+Code+Pro:400,400i,700,700i|Comfortaa:700&display=swap"
+    fontsLink = ""
     # Note: In order for the reader to
     #       experience the fonts you set,
     #       it is best to use web fonts.
@@ -905,7 +909,7 @@ uglyURLs = false
     ######################################
     ## Drop Cap
 
-    enableDropCap = true
+    enableDropCap = false
     # Note: *global settings*
     #       `dropCap` in post’s Front Matter
     #       has a higher priority than here
@@ -927,7 +931,7 @@ uglyURLs = false
     ######################################
     ## Small Caps
 
-    enableSmallCaps = true
+    enableSmallCaps = false
     # Note: apply to headings & post toc
     #       title only
     #       *global settings*
@@ -935,23 +939,9 @@ uglyURLs = false
     #       has a higher priority than here
 
     ######################################
-    ## Emphasis Point (Chinese)
-
-    # Note: new Markdown syntax created by MemE
-    #       `..文本..`
-
-    enableEmphasisPoint = false
-
-    ######################################
-    ## Chinese Punctuation Glyph Correction
-
-    enableChinesePunctuationGlyphCorrection = false
-
-
-    ######################################
     # Post Copyright
 
-    enablePostCopyright = true
+    enablePostCopyright = false
 
     displayPostCopyright = false
     # Note: *global settings*
@@ -962,7 +952,7 @@ uglyURLs = false
     ######################################
     # Post Updated Badge
 
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     displayUpdatedBadge = false
     # Note: *global settings*
@@ -1081,7 +1071,7 @@ uglyURLs = false
 
     hideLangToggleInHome = false
 
-    autoHideLangToggle = true
+    autoHideLangToggle = false
     # Note: in other words, the toggle is
     #       displayed only when the post
     #       has a translated version

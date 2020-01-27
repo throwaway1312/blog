@@ -14,6 +14,8 @@ Dopo gli eventi di domenica scorsa e dopo aver ascoltato le varie
 posizioni, vorremmo, coi nostri tempi e i nostri modi, fornire alcune 
 precisazioni e porre qualche domanda. 
 
+<!--more-->
+
 Le nostre posizioni in materia di “gestione della sicurezza”, 
 repressione e sport moderno sono note. Abbiamo una certa visione del 
 mondo e non ci riteniamo né vittime né santi né eroi. In generale 
@@ -158,5 +160,5 @@ e cercare di capire il mondo delle curve con occhi differenti.
 Mondo che, nolenti o volenti, è comunque parte integrante e definita 
 dello sport e di questa società!
 
-SIAMO SEMPRE QUI 				Gioventù Biancoblu – CURVA SUD Ambrì - 
-Piotta
+SIAMO SEMPRE QUI 				
+Gioventù Biancoblu – CURVA SUD Ambrì - Piotta
