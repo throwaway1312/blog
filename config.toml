@@ -6,7 +6,7 @@ subtitle = "Contenitore comunicati Curva Sud Ambrì"
 languageCode = "it"
 #
 # Name of theme
-theme = "meme"
+theme = "hyde-hyde"
 
 # `hugo new` automatically opened text editor
 newContentEditor = "vim"
@@ -38,185 +38,41 @@ enableRobotsTXT = true
 # layout in MemE)
 paginate = 10
 
-# Languages support
-[languages]
-  [languages.it]
-    languageName = "Italiano"
-    weight = 1
-  [languages.de]
-    languageName = "Deutsch"
-    weight = 2
-
 # URL related
 disablePathToLower = false
 relativeURLs = false
 uglyURLs = false
 
-# URL structure
-[permalinks]
-    categories = "/categories/:slug/"
-    tags = "/tags/:slug/"
-
-# Taxonomies
-[taxonomies]
-    category = "categories"
-    tag = "tags"
-
-# Modified date
-[frontmatter]
-    lastmod = ["lastmod", ":git", ":fileModTime", ":default"]
-
-# Markdown renderer
-[markup]
-    defaultMarkdownHandler = "goldmark"
-    [markup.goldmark]
-        [markup.goldmark.extensions]
-            definitionList = true
-            footnote = true
-            linkify = true
-            strikethrough = true
-            table = true
-            taskList = true
-            typographer = true
-        [markup.goldmark.parser]
-            attribute = true
-            autoHeadingID = true
-            autoHeadingIDType = "github"
-        [markup.goldmark.renderer]
-            hardWraps = false
-            unsafe = true
-            xHTML = false
-    [markup.highlight]
-        codeFences = true
-        guessSyntax = false
-        lineNos = true
-        lineNumbersInTable = true
-        noClasses = false
-    [markup.tableOfContents]
-        startLevel = 2
-        endLevel = 6
-        ordered = true
-
 [author]
     # Name
     name = "infogbb"
     # Email
-    email = ""
+    email = "test@test.ch"
     # Motto or introduction
-    motto = ""
-    # Avatar
-    avatar = ""
-    # Personal website, default: baseURL
-    website = ""
+    motto = "test"
 
-# Related content
-[related]
-    threshold = 80
-    includeNewer = true
-    toLower = true
-    [[related.indices]]
-        name = "categories"
-        weight = 100
-    [[related.indices]]
-        name = "tags"
-        weight = 95
-    [[related.indices]]
-        name = "date"
-        weight = 10
-        pattern = "2006"
+## Main menu
+[[menu.main]]
+    url = "/"
+    name = "Comunicati"
+    weight = 100
+    identifier = "posts"
+[[menu.main]]
+    url = "/sgambetto/"
+    name = "Lo Sgambetto"
+    weight = 200
+[[menu.main]]
+    url = "/solidarieta/"
+    name = "Solidarietà"
+    weight = 300
+[[menu.main]]
+    name = "Contatto"
+    url = "/contatto/"
+    weight = 400
 
-# MIME type of Atom
-[mediaTypes."application/atom+xml"]
-    suffixes = ["xml"]
 
-# Custom Atom template of MemE
-[outputFormats.SectionsAtom]
-    mediaType = "application/atom+xml"
-    baseName = "atom"
-
-# Custom RSS template of MemE
-[outputFormats.SectionsRSS]
-    mediaType = "application/rss+xml"
-    baseName = "rss"
-
-# Hugo’s output control
-[outputs]
-    page = ["HTML"]
-    home = ["HTML", "SectionsAtom", "SectionsRSS"]
-    section = ["HTML"]
-    # Taxonomy
-    taxonomyTerm = ["HTML"]
-    # Taxonomy term
-    taxonomy = ["HTML"]
-    # Note: https://github.com/gohugoio/hugo/issues/4528#issuecomment-508488859
-
-# Maximum number of items in the Atom & RSS feed
-[services.rss]
-    limit = -1
-
-##########################################
-# Menu Settings
-
-# MemE supports the following four menus:
-# 1. main       Menu bar below the header
-# 2. home       Links at the bottom of the
-#               homepage (valid for the
-#               `poetry` and `footage`
-#               homepage layout)
-# 3. socials    Social bar (minimal footer
-#               in about page)
-# 4. links      Link bar (minimal footer
-#               in about page)
-
-# The configuration instructions in the
-# menu are as follows:
-# url           URL
-# name          Text (won’t display if it
-#               is left empty("") or does
-#               not exist)
-# weight        Position
-# pre           Type of link (internal or
-#               external)
-# post          Icon (won’t display if it
-#               is left empty("") or does
-#               not exist)
-# identifier    Icon’s class name (invalid
-#               for the `main` menu)
-
-[menu]
-    ## Menu bar
-    [[menu.main]]
-        url = "/"
-        name = "Comunicati"
-        weight = 1
-        pre = "internal"
-    [[menu.main]]
-        url = "/sgambetto/"
-        name = "Sgambetto"
-        weight = 2
-        pre = "internal"
-    [[menu.main]]
-        url = "/solidarieta/"
-        name = "Solidarietà"
-        weight = 3
-        pre = "internal"
-    [[menu.main]]
-        url = "/contatto/"
-        name = "Contatto"
-        weight = 4
-        pre = "internal"
-##########################################
 # Theme Settings
-
 [params]
-    ######################################
-    # Header
-
-    enableHeader = true
-
-    displayHeaderInHome = true
-
-
     ######################################
     # Brand Bar (inside header)
 
