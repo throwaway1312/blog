@@ -6,7 +6,7 @@ subtitle = "Contenitore comunicati Curva Sud Ambrì"
 languageCode = "it"
 
 # Name of theme
-theme = "hyde-hyde"
+theme = "meme"
 
 # `hugo new` automatically opened text editor
 newContentEditor = "vim"
