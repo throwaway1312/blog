@@ -10,3 +10,9 @@
 [submodule "themes/ghostwriter"]
 	path = themes/ghostwriter
 	url = https://github.com/jbub/ghostwriter.git
+[submodule "themes/themes/hyde"]
+	path = themes/themes/hyde
+	url = https://github.com/spf13/hyde.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
