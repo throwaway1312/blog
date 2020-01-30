@@ -2,13 +2,11 @@
 # Site Settings
 baseURL = "https://throwaway1312.github.io"
 title = "infoGBB"
-subtitle = "Contenitore comunicati Curva Sud Ambrì"
 languageCode = "it"
 
 # Name of theme
-theme = "strange-case"
-colorScheme = "scheme-darkbrown"
-    
+theme = "hyde"
+
 # `hugo new` automatically opened text editor
 newContentEditor = "vim"
 
@@ -61,7 +59,10 @@ uglyURLs = false
 
 # Theme Settings
 [params]
-    ######################################
+themeColor = "theme-base-0d"
+description = "Contenitore comunicati Curva Sud Ambrì"
+layoutReverse = false
+######################################
     # Atom & RSS
 
     # Include full content?
