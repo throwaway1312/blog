@@ -62,6 +62,8 @@ uglyURLs = false
 themeColor = "theme-base-0d"
 description = "Contenitore comunicati Curva Sud Ambrì"
 layoutReverse = false
+copyright = " "
+
 ######################################
     # Atom & RSS
 
