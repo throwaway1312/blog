@@ -1,4 +1,4 @@
 ---
-layout: post
+type: empty
 ---
 Pagina in costruzione.
