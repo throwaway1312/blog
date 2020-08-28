@@ -64,6 +64,20 @@ description = "Contenitore comunicati Curva Sud Ambrì"
 layoutReverse = false
 copyright = " "
 
+# Language settings
+# Apparentemente Hugo non è contento se non c'è l'inglese
+# quindi en è usato per l'italiano fino a quando abbiamo 
+# tempo di sistemare
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.en]
+        languageName = "Italiano"
+        weight = 0
+    [languages.de]
+        languageName = "Deutsch"
+        weight = 1
+
 ######################################
     # Atom & RSS
 
@@ -579,13 +593,6 @@ copyright = " "
 
     enableSmoothScroll = true
     # Note: https://github.com/cferdinandi/smooth-scroll
-
-
-    ######################################
-    # Medium Zoom
-
-    enableMediumZoom = false
-    # Note: https://github.com/francoischalifour/medium-zoom
 
 
     ######################################

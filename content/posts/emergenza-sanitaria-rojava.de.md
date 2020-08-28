@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Solidarität mit Rojava"
+date: 2020-04-06 00:00:00
+---
+> "Solidarität ist die Zärtlichkeit der Völker" Ernesto "Che" Guevara
+
+„Wir sitzen alle im selben Boot“, heißt es in diesen Tagen immer wieder. Doch
+auch wenn es stimmt, dass wir in einer Zeit der Unsicherheit und des Zweifels
+auf Sicht segeln, dann ist das Boot dennoch nicht für alle gleich.
+
+Nur wenige haben ein schönes Segelboot, auf dem sie in Ruhe ihre Tage verbringen
+können. Es gibt viele, die jeden Tag mit dem Ruderboot zur Arbeit fahren müssen,
+weil sich die auf dem Segelboot dafür entschieden haben. Es sind die
+Bauarbeiter, das Verkaufspersonal, die Angestellten in der Industrie, die
+Hauskuriere und die Landarbeiter, die trotz der Gefahren jeden Tag arbeiten
+müssen. Sie arbeiten, weil Arbeit ihnen und der übrigen Bevölkerung das
+Überleben ermöglicht. Dann gibt es Gesundheitspersonal jeder Art und Rolle,
+dessen Boot im Laufe der Jahre durch kontinuierliche Kürzungen der Sozial- und
+Gesundheitsausgaben reduziert wurde, das aber auch am frühen Morgen zur Arbeit
+schwimmen würde.
+
+<!--more-->
+
+Manche Menschen haben kein Boot. Einige Leute mussten in diesen schwierigen
+Tagen ein Floß mit behelfsmäßigem Material bauen. Hauspersonal, Sans-Papiers,
+darunter viele Frauen, die für uns putzen und kochen oder die in Auffanglagern
+eingesperrten Migranten. Nicht zu vergessen auch diejenigen, die bereits ihr
+lebensnotwendiges Hab und Gut und ihr Obdach verloren haben, oder diejenigen,
+die auf Besuche verzichten müssen, die zumindest vorübergehend die Gitterstäbe
+eines jeden Gefängnisses sprengen würden. Und ein Gedanke der Nähe und Zuneigung
+geht auch an alle, die - hier bei uns, anderswo, egal, wo - einen geliebten
+Menschen, ein Familienmitglied, einen Freund verloren haben.
+
+Ein Floß ist besser als nichts, aber es gibt ganze Völker, die nicht einmal das
+Material haben, um es zu bauen. Dazu gehören etwa zwei Millionen Menschen, die
+in Rojava, dem kurdischen Gebiet im Nordosten Syriens, leben. Ein Gebiet, das
+seit neun Jahren von bewaffneten Konflikten heimgesucht wird und in dem derzeit
+nur 28 Intensivbetten und zehn Lungenbeatmungsgeräte für Erwachsene sowie eines
+für Kinder in den wenigen Krankenhäusern vorhanden sind. Die Zustände in den
+Flüchtlingslagern der Region sind noch weitaus prekärer. Als ob das nicht genug
+wäre, hat die Türkei in den letzten Monaten mehrere Gesundheitseinrichtungen
+bombardiert und die Wasserversorgung in einem Teil des Gebiets blockiert.
+
+Diese Menschen können das Floß nicht bauen. Im Bewusstsein dieser
+Schwierigkeiten haben wir beschlossen, uns solidarisch zu zeigen und der
+Bevölkerung von Rojava unsere moralische und materielle Unterstützung zukommen
+zu lassen. Zusätzlich zu dem vor einigen Monaten gestarteten Solidaritätsprojekt
+für den Bau eines Sportplatzes in einer örtlichen Schule starten wir jetzt eine
+Spendenaktion für den Gesundheitsnotstand. Das Geld wird für die Anschaffung von
+Beatmungsgeräten und anderen medizinischen Geräten sowie für den (Wieder-)Aufbau
+von Krankenhäusern und anderen Pflegeeinrichtungen verwendet.
+
+Die Zeit für den Sportplatz wird kommen, aber jetzt ist es an der Zeit, die
+Anstrengungen auf die Bewältigung des Gesundheitsnotstands zu konzentrieren.
+Denn zusammengefügte Flöße werden zu Brücken. Und die eleganten Schiffe fahren
+nicht mehr vorbei.
+
+Gioventù Biancoblu
+
+---
+
+**ZAHLUNG FÜR:**\
+Gemacht zu: Comitato ticinese per la ricostruzione di Kobane, via Prada 9,
+6932 Breganzona\
+Postkonto: 69-605609-5\
+IBAN: CH78 0900 0000 6960 5609 5\
+**Wortlaut hinzufügen: Sostegno Sanitario Rojava**
+
+

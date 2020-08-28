@@ -7,6 +7,8 @@
       </p>
     </div>
 
+
+
     <nav>
       <ul class="sidebar-nav">
         <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
@@ -16,6 +18,10 @@
       </ul>
     </nav>
 
-    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
-  </div>
+
+    <p><br>
+      {{ range $.Site.Home.AllTranslations }}
+      <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+      {{ end }}
+    </p>
 </aside>
