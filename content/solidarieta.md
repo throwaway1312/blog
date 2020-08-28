@@ -1,19 +1,16 @@
 ---
 type: empty
 ---
-# Costruzione di uno spazio giochi/sportivo per la scuola a Kobane
+# Costruzione di uno spazio giochi e sportivo per una scuola a Kobane
 
-### Raccolta fondi
-Per partecipare alla raccolta fondi ci sono due possibilià:
-- Passare nell'angolo GBB durante una partita,
-- Usare il conto conto corrente seguente:
-  
-   Instestato a: Comitato ticinese per la ricostruzione di Kobane\
-   Conto corrente postale: 69-605609-5\
-   IBAN: CH78 0900 0000 6960 5609 5\
-   **Menzione: Progetto Curva Sud Rojava**
+### Stato del progetto
+I lavori per la costruzione dello spazio giochi e sportivo sono cominciati!
 
-### Lo scopo del progetto:
+Continueremo a tenervi informate e informati sull'avanzamento dei lavori.
+
+{{<figure src="/images/lavori_kobane.jpg">}}
+
+### Scopo del progetto
 Costruzione di un spazio per gioco e sport per la scuola elementare nel distretto Kani Kurdan,
 situato a nord est di Kobane.
 
@@ -29,16 +26,6 @@ Sulla base di quanto sopra e con le nostre limitate risorse finanziarie, abbiamo
 comitato di ingegneri di fornire una valutazione preliminare per identificare i costi dei campi. Si è
 deciso di iniziare con alcuni interventi, nello specifico, il livellamento dei campi, la posa di
 piastrelle e l’installazione delle attrezzature per i campi da calcio, basket e pallavolo.
-
-### Scaletta lavori:
-- Livellamento del pavimento
-- Strato di 30 cm di ghiaia di grandi dimensioni
-- Strato di 15 cm di ghiaia di piccole dimensioni
-- Rivestimento del pavimento con piastrelle in spugna ammortizzante
-- Installazione di attrezzature sportive con vernice e tutto il necessario.
-
-Le dimensioni totali del campo da calcio sono 20x40 mq.
-
 
 ### Background
 A seguito del rapporto scritto in data 4 settembre 2018, la costruzione della scuola e
