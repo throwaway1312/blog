@@ -2,6 +2,7 @@
 type : empty
 ---
 
+{{<figure src="/copertine/2020_10_copertina.png" link="/sgambetti/2020_10_sgambetto.pdf">}}
 {{<figure src="/copertine/2020_01_copertina.png" link="/sgambetti/2020_01_sgambetto.pdf">}}
 {{<figure src="/copertine/2019_12_copertina.png" link="/sgambetti/2019_12_sgambetto.pdf">}}
 {{<figure src="/copertine/2019_02_copertina.png" link="/sgambetti/2019_02_sgambetto.pdf">}}
