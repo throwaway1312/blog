@@ -8,4 +8,4 @@ build:
 	hugo
 
 deploy: build
-	rsync -Paivz $(SRC) $(DEST)
+	rsync -aivz $(SRC) $(DEST)
