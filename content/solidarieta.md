@@ -3,6 +3,16 @@ type: empty
 ---
 # Costruzione di uno spazio giochi e sportivo per una scuola a Kobane
 
+### Raccolta fondi
+Per partecipare alla raccolta fondi ci sono due possibilià:
+- Passare nell'angolo GBB durante una partita,
+- Usare il conto conto corrente seguente:
+
+   Instestato a: Comitato ticinese per la ricostruzione di Kobane\
+   Conto corrente postale: 69-605609-5\
+   IBAN: CH78 0900 0000 6960 5609 5\
+   **Menzione: Progetto Curva Sud Rojava**
+
 ### Stato del progetto
 I lavori per la costruzione dello spazio giochi e sportivo sono cominciati!
 
