@@ -4,9 +4,7 @@ type: empty
 # Costruzione di uno spazio giochi e sportivo per una scuola a Kobane
 
 ### Raccolta fondi
-Per partecipare alla raccolta fondi ci sono due possibilià:
-- Passare nell'angolo GBB durante una partita,
-- Usare il conto conto corrente seguente:
+Per partecipare alla raccolta fondi usare il conto conto corrente seguente:
 
    Instestato a: Comitato ticinese per la ricostruzione di Kobane\
    Conto corrente postale: 69-605609-5\
