@@ -14,11 +14,17 @@ Per partecipare alla raccolta fondi ci sono due possibilià:
    **Menzione: Progetto Curva Sud Rojava**
 
 ### Stato del progetto
-I lavori per la costruzione dello spazio giochi e sportivo sono cominciati!
+I lavori per la costruzione dello spazio giochi e sportivo sono quasi ultimati!
+Qui sotto una foto arrivata direttamente dalla scuola elementare nel distretto
+Kani Kurdan, situato a nord est di Kobane.
 
-Continueremo a tenervi informate e informati sull'avanzamento dei lavori.
+{{<figure src="/images/campo_kobane.jpg">}}
+
+Questa invece una foto arrivata durante i lavori.
 
 {{<figure src="/images/lavori_kobane.jpg">}}
+
+Continueremo a tenervi informate e informati sull'avanzamento dei progetto.
 
 ### Scopo del progetto
 Costruzione di un spazio per gioco e sport per la scuola elementare nel distretto Kani Kurdan,
